@@ -36,10 +36,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "resizable": true,
+        "resizable": false,
         "title": "IdleRPG_prototype",
-        "width": 800,
-        "height": 600
+        "width": 1280,
+        "height": 720
       }
     ]
   }
